@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574165451386.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1371475657",
+    "id" : "619363CF",
+    "lastKnownWriteTime" : 1582808961,
+    "last_content_update" : 1582808961706,
+    "path" : "C:/Users/yassine abdou/Desktop/dossier_global/Projet_fiab/script_global.R",
+    "project_path" : "script_global.R",
+    "properties" : {
+        "cursorPosition" : "20,21",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
